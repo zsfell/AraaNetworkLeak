@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Well Of Fortune",
+        "description": "",
+        "uuid": "e1782a3f-d72f-4be7-90fe-c08758d504c0",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 17, 0]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "6eaae3d5-2d3a-4ddb-a2eb-68724729496c",
+            "version": [1, 0, 0]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "deskripsi ubah..",
+    "name": "§l§dAraa§fNetwork",
+    "uuid": "9a6a1fb3-15ca-498e-93d5-968d2668d4aa",
+    "version": [1, 0, 3]
+  },
+  "modules": [
+    {
+      "description": "Deskripsi...",
+      "type": "resources",
+      "uuid": "d26d0098-ced7-8cdd-bd82-697811d836c3",
+      "version": [1, 0, 3]
+    }
+  ]
+}
